@@ -1,6 +1,8 @@
 # Exercise 7 (Repo 2): Add test dependencies and explore the Maven lifecycle
 For each command, answer the following in your notes:
+
 **Which phases of the Maven lifecycle are executed?**
+
 `mvn clean` : Deletes the target/ file in order to build from something clean
 *Executed maven phases*: `clean`
 *New files in `target/`* : none
