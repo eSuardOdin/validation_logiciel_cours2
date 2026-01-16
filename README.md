@@ -17,3 +17,8 @@ For each command, answer the following in your notes:
 - `target/classes/`: Compiled test classes
 - Maven specifics files
 <img width="367" height="341" alt="image" src="https://github.com/user-attachments/assets/ee721aa8-c0f9-49bd-9739-387fec62a11a" />
+
+
+
+# Exercise 9
+<img width="633" height="317" alt="image" src="https://github.com/user-attachments/assets/6f4a2c11-4ede-441a-8084-2a90c3c2fd47" />
