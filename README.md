@@ -22,3 +22,7 @@ For each command, answer the following in your notes:
 
 # Exercise 9
 <img width="633" height="317" alt="image" src="https://github.com/user-attachments/assets/6f4a2c11-4ede-441a-8084-2a90c3c2fd47" />
+
+# Exercice 10
+It works ! 
+<img width="1044" height="542" alt="image" src="https://github.com/user-attachments/assets/b09fadcc-6d7d-4271-8834-5538d841d276" />
